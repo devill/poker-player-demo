@@ -1,4 +1,3 @@
-poker-player-js
+Democles
 ===============
 
-Javascript client skeleton for Lean Poker For more information visit: http://leanpoker.org
